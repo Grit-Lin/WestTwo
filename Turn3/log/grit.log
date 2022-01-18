@@ -1,0 +1,686 @@
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1194893830.
+[DEBUG][22-01-17][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@4738a206]
+[DEBUG][22-01-17][com.grit.dao.locationMapper.addLocation]==>  Preparing: insert into city (id,name,lat,lon) values(?,?,?,?) 
+[DEBUG][22-01-17][com.grit.dao.locationMapper.addLocation]==> Parameters: 101230101(Integer), 福州(String), 26.07530(BigDecimal), 119.30623(BigDecimal)
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1194893830.
+[DEBUG][22-01-17][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@4738a206]
+[DEBUG][22-01-17][com.grit.dao.locationMapper.addLocation]==>  Preparing: insert into qweather.city (id,name,lat,lon) values(?,?,?,?) 
+[DEBUG][22-01-17][com.grit.dao.locationMapper.addLocation]==> Parameters: 101230101(Integer), 福州(String), 26.07530(BigDecimal), 119.30623(BigDecimal)
+[DEBUG][22-01-17][com.grit.dao.locationMapper.addLocation]<==    Updates: 1
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-17][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-17][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1194893830.
+[DEBUG][22-01-17][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@4738a206]
+[DEBUG][22-01-17][com.grit.dao.locationMapper.addLocation]==>  Preparing: insert into qweather.city (id,name,lat,lon) values(?,?,?,?) 
+[DEBUG][22-01-17][com.grit.dao.locationMapper.addLocation]==> Parameters: 101230101(Integer), 福州(String), 26.07530(BigDecimal), 119.30623(BigDecimal)
+[DEBUG][22-01-17][com.grit.dao.locationMapper.addLocation]<==    Updates: 1
+[DEBUG][22-01-17][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@4738a206]
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 452121674.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@1af2d44a]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==>  Preparing: insert into qweather.city (id,name,lat,lon) values(?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==> Parameters: 101230101(Integer), 福州(String), 26.07530(BigDecimal), 119.30623(BigDecimal)
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 210156003.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@c86b9e3]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: shanghai(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 0
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 637241618.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@25fb8912]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==>  Preparing: insert into qweather.city (id,name,lat,lon) values(?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==> Parameters: 101230101(Integer), 福州(String), 26.07530(BigDecimal), 119.30623(BigDecimal)
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 637241618.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@25fb8912]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 北京(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 0
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 637241618.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@25fb8912]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 北京(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 0
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 637241618.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@25fb8912]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 北京(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 0
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 210156003.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@c86b9e3]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 210156003.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@c86b9e3]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 210156003.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@c86b9e3]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==>  Preparing: insert into daily (fxDate,tempMax,tempMin,textDay,id) values(?,?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==> Parameters: 2022-01-18(Date), 13(Integer), 10(Integer), 阴(String), 101230101(Integer)
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 210156003.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@c86b9e3]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==>  Preparing: insert into qweather.weather (fxDate,tempMax,tempMin,textDay,id) values(?,?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==> Parameters: 2022-01-18(Date), 13(Integer), 10(Integer), 阴(String), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==>  Preparing: insert into qweather.weather (fxDate,tempMax,tempMin,textDay,id) values(?,?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==> Parameters: 2022-01-19(Date), 18(Integer), 11(Integer), 多云(String), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==>  Preparing: insert into qweather.weather (fxDate,tempMax,tempMin,textDay,id) values(?,?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==> Parameters: 2022-01-20(Date), 16(Integer), 11(Integer), 阴(String), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]<==    Updates: 1
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@c86b9e3]
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 637241618.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@25fb8912]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 北京(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==>  Preparing: insert into qweather.city (id,name,lat,lon) values(?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==> Parameters: 101010100(Integer), 北京(String), 39.90498(BigDecimal), 116.40528(BigDecimal)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 上海(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==>  Preparing: insert into qweather.city (id,name,lat,lon) values(?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==> Parameters: 101020100(Integer), 上海(String), 31.23170(BigDecimal), 121.47264(BigDecimal)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 475603167.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@1c5920df]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 北京(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==>  Preparing: insert into qweather.city (id,name,lat,lon) values(?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==> Parameters: 101010100(Integer), 北京(String), 39.90498(BigDecimal), 116.40528(BigDecimal)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 上海(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==>  Preparing: insert into qweather.city (id,name,lat,lon) values(?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==> Parameters: 101020100(Integer), 上海(String), 31.23170(BigDecimal), 121.47264(BigDecimal)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 475603167.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@1c5920df]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 北京(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==>  Preparing: insert into qweather.city (id,name,lat,lon) values(?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==> Parameters: 101010100(Integer), 北京(String), 39.90498(BigDecimal), 116.40528(BigDecimal)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 上海(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==>  Preparing: insert into qweather.city (id,name,lat,lon) values(?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==> Parameters: 101020100(Integer), 上海(String), 31.23170(BigDecimal), 121.47264(BigDecimal)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-18(Date), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where weatherID = ? 
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 475603167.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@1c5920df]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 北京(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==>  Preparing: insert into qweather.city (id,name,lat,lon) values(?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==> Parameters: 101010100(Integer), 北京(String), 39.90498(BigDecimal), 116.40528(BigDecimal)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 上海(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==>  Preparing: insert into qweather.city (id,name,lat,lon) values(?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==> Parameters: 101020100(Integer), 上海(String), 31.23170(BigDecimal), 121.47264(BigDecimal)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-18(Date), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where weatherID = ? 
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 475603167.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@1c5920df]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 北京(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==>  Preparing: insert into qweather.city (id,name,lat,lon) values(?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==> Parameters: 101010100(Integer), 北京(String), 39.90498(BigDecimal), 116.40528(BigDecimal)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 上海(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==>  Preparing: insert into qweather.city (id,name,lat,lon) values(?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]==> Parameters: 101020100(Integer), 上海(String), 31.23170(BigDecimal), 121.47264(BigDecimal)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.addLocation]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-18(Date), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==>  Preparing: insert into qweather.weather (fxDate,tempMax,tempMin,textDay,id) values(?,?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==> Parameters: 2022-01-18(Date), 13(Integer), 11(Integer), 阴(String), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-19(Date), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==>  Preparing: insert into qweather.weather (fxDate,tempMax,tempMin,textDay,id) values(?,?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==> Parameters: 2022-01-19(Date), 19(Integer), 10(Integer), 阴(String), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-20(Date), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==>  Preparing: insert into qweather.weather (fxDate,tempMax,tempMin,textDay,id) values(?,?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==> Parameters: 2022-01-20(Date), 16(Integer), 10(Integer), 阴(String), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 北京(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-18(Date), 101010100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==>  Preparing: insert into qweather.weather (fxDate,tempMax,tempMin,textDay,id) values(?,?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==> Parameters: 2022-01-18(Date), 3(Integer), -7(Integer), 晴(String), 101010100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-19(Date), 101010100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==>  Preparing: insert into qweather.weather (fxDate,tempMax,tempMin,textDay,id) values(?,?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==> Parameters: 2022-01-19(Date), -1(Integer), -8(Integer), 多云(String), 101010100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-20(Date), 101010100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==>  Preparing: insert into qweather.weather (fxDate,tempMax,tempMin,textDay,id) values(?,?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==> Parameters: 2022-01-20(Date), -2(Integer), -7(Integer), 多云(String), 101010100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 上海(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-18(Date), 101020100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==>  Preparing: insert into qweather.weather (fxDate,tempMax,tempMin,textDay,id) values(?,?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==> Parameters: 2022-01-18(Date), 11(Integer), 6(Integer), 晴(String), 101020100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-19(Date), 101020100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==>  Preparing: insert into qweather.weather (fxDate,tempMax,tempMin,textDay,id) values(?,?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==> Parameters: 2022-01-19(Date), 14(Integer), 5(Integer), 多云(String), 101020100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]<==    Updates: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-20(Date), 101020100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==>  Preparing: insert into qweather.weather (fxDate,tempMax,tempMin,textDay,id) values(?,?,?,?,?) 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]==> Parameters: 2022-01-20(Date), 8(Integer), 4(Integer), 多云(String), 101020100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.addWeather]<==    Updates: 1
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@1c5920df]
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 475603167.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@1c5920df]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 北京(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 上海(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-18(Date), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where dailyID = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==> Parameters: 2022-01-18(Date), 13(Integer), 11(Integer), 阴(String), 101230101(Integer), 0(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]<==    Updates: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-19(Date), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where dailyID = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==> Parameters: 2022-01-19(Date), 19(Integer), 10(Integer), 阴(String), 101230101(Integer), 0(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]<==    Updates: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-20(Date), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where dailyID = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==> Parameters: 2022-01-20(Date), 16(Integer), 10(Integer), 阴(String), 101230101(Integer), 0(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]<==    Updates: 0
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 北京(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-18(Date), 101010100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where dailyID = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==> Parameters: 2022-01-18(Date), 3(Integer), -7(Integer), 晴(String), 101010100(Integer), 0(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]<==    Updates: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-19(Date), 101010100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where dailyID = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==> Parameters: 2022-01-19(Date), -1(Integer), -8(Integer), 多云(String), 101010100(Integer), 0(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]<==    Updates: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-20(Date), 101010100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where dailyID = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==> Parameters: 2022-01-20(Date), -2(Integer), -7(Integer), 多云(String), 101010100(Integer), 0(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]<==    Updates: 0
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 上海(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-18(Date), 101020100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where dailyID = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==> Parameters: 2022-01-18(Date), 11(Integer), 6(Integer), 晴(String), 101020100(Integer), 0(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]<==    Updates: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-19(Date), 101020100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where dailyID = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==> Parameters: 2022-01-19(Date), 14(Integer), 5(Integer), 多云(String), 101020100(Integer), 0(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]<==    Updates: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-20(Date), 101020100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where dailyID = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==> Parameters: 2022-01-20(Date), 8(Integer), 4(Integer), 多云(String), 101020100(Integer), 0(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]<==    Updates: 0
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@1c5920df]
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 475603167.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@1c5920df]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 北京(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 上海(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-18 00:00:00.0(Timestamp), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where dailyID = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==> Parameters: 2022-01-18 00:00:00.0(Timestamp), 13(Integer), 11(Integer), 阴(String), 101230101(Integer), 0(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]<==    Updates: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-19 00:00:00.0(Timestamp), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where dailyID = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==> Parameters: 2022-01-19 00:00:00.0(Timestamp), 19(Integer), 10(Integer), 阴(String), 101230101(Integer), 0(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]<==    Updates: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-20 00:00:00.0(Timestamp), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where dailyID = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==> Parameters: 2022-01-20 00:00:00.0(Timestamp), 16(Integer), 10(Integer), 阴(String), 101230101(Integer), 0(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]<==    Updates: 0
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 北京(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-18 00:00:00.0(Timestamp), 101010100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where dailyID = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==> Parameters: 2022-01-18 00:00:00.0(Timestamp), 3(Integer), -7(Integer), 晴(String), 101010100(Integer), 0(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]<==    Updates: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-19 00:00:00.0(Timestamp), 101010100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where dailyID = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==> Parameters: 2022-01-19 00:00:00.0(Timestamp), -1(Integer), -8(Integer), 多云(String), 101010100(Integer), 0(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]<==    Updates: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-20 00:00:00.0(Timestamp), 101010100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where dailyID = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==> Parameters: 2022-01-20 00:00:00.0(Timestamp), -2(Integer), -7(Integer), 多云(String), 101010100(Integer), 0(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]<==    Updates: 0
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 上海(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-18 00:00:00.0(Timestamp), 101020100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where dailyID = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==> Parameters: 2022-01-18 00:00:00.0(Timestamp), 11(Integer), 6(Integer), 晴(String), 101020100(Integer), 0(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]<==    Updates: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-19 00:00:00.0(Timestamp), 101020100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where dailyID = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==> Parameters: 2022-01-19 00:00:00.0(Timestamp), 14(Integer), 5(Integer), 多云(String), 101020100(Integer), 0(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]<==    Updates: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-20 00:00:00.0(Timestamp), 101020100(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==>  Preparing: update qweather.weather set fxDate = ?,tempMax = ?,tempMin = ?,textDay = ?,id = ? where dailyID = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]==> Parameters: 2022-01-20 00:00:00.0(Timestamp), 8(Integer), 4(Integer), 多云(String), 101020100(Integer), 0(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.updateWeather]<==    Updates: 0
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@1c5920df]
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 423583818.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@193f604a]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-18 22:32:37.636(Timestamp), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-19 22:32:37.636(Timestamp), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 0
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-21 22:32:37.636(Timestamp), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 0
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 423583818.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@193f604a]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-18(String), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-19(String), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-21(String), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 0
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 423583818.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@193f604a]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-18(String), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-19(String), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-21(String), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 0
+[DEBUG][22-01-18][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-01-18][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1052768296.
+[DEBUG][22-01-18][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3ebff828]
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==>  Preparing: select * from qweather.city where name = ? 
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]==> Parameters: 福州(String)
+[DEBUG][22-01-18][com.grit.dao.locationMapper.getLocationByName]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-18(String), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-19(String), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 1
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==>  Preparing: select * from qweather.weather where fxDate = ? and id = ? 
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]==> Parameters: 2022-01-21(String), 101230101(Integer)
+[DEBUG][22-01-18][com.grit.dao.weatherMapper.getWeatherByIDAndFxDate]<==      Total: 0

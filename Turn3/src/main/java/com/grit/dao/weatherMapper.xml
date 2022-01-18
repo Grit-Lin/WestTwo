@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+
+
+<mapper namespace="com.grit.dao.weatherMapper">
+
+
+
+    <insert id="addWeather" parameterType="com.grit.pojo.Daily">
+        insert into qweather.weather (fxDate,tempMax,tempMin,textDay,id) values(#{fxDate},#{tempMax},#{tempMin},#{textDay},#{id})
+    </insert>
+
+    <delete id="deleteWeatherByID">
+        delete from qweather.weather where dailyID = #{dailyID}
+    </delete>
+
+    <update id="updateWeather" parameterType="com.grit.pojo.Daily">
+        update qweather.weather set fxDate = #{fxDate},tempMax = #{tempMax},tempMin = #{tempMin},textDay = #{textDay},id = #{id} where dailyID = #{dailyID}
+    </update>
+
+    <select id="getWeatherByIDAndFxDate" parameterType="com.grit.pojo.Daily" resultType="com.grit.pojo.Daily">
+        select * from qweather.weather where fxDate = #{fxDate} and id = #{id}
+    </select>
+
+
+
+</mapper>

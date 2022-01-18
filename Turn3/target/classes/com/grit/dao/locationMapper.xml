@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+
+
+<mapper namespace="com.grit.dao.locationMapper">
+
+
+
+    <insert id="addLocation" parameterType="com.grit.pojo.Location">
+        insert into qweather.city (id,name,lat,lon) values(#{id},#{name},#{lat},#{lon})
+    </insert>
+
+    <delete id="deleteLocationByID">
+        delete from qweather.city where id = #{id}
+    </delete>
+
+    <update id="updateLocation" parameterType="com.grit.pojo.Location">
+        update qweather.city set id = #{id},name = #{name},lat = #{lat},lon = #{lon}
+    </update>
+    
+    <select id="getLocationByName" resultType="com.grit.pojo.Location">
+        select * from qweather.city where name = #{name}
+    </select>
+    
+    
+
+
+
+</mapper>
